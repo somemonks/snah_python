@@ -4,7 +4,7 @@ import time
 
 def displayIntro():
     print('You are on a planet full of Santoras. In front of you,')
-    print('you see two beards. In none beard, the mouth is friendly')
+    print('you see two beards. In one beard, the mouth is friendly')
     print('and will share his breakfast with you. The other beard')
     print('is greedy and hungry, and will eat you on sight.')
     print()
